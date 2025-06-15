@@ -20,26 +20,8 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          },
-          {
-            "id": "b7f58f7773d25ae5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7f58f7773d25ae5",
+  "active": "050ee5faccc4d681",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "변경사항.md",
     "Untitled 2.md",
     "Welcome.md"
