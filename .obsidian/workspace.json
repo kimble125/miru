@@ -25,34 +25,21 @@
             "id": "b7f58f7773d25ae5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "변경사항.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "변경사항"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "cf15dada63a69f92",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba939a66fea33a09",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -202,8 +189,8 @@
   },
   "active": "b7f58f7773d25ae5",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "변경사항.md",
+    "Untitled 2.md",
     "Welcome.md"
   ]
 }
