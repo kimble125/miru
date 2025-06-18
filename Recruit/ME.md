@@ -79,7 +79,7 @@
 
 ## **비젼**
 
-왓챠는 **"모두의 다름이 인정받고, 개인의 취향이 존중받는, 더 다양한 세상을 만들어간다"**는 비전을 가지고 있습니다[5](https://zighang.com/recruitment/c30d8500-0c4f-4fef-bb13-2a4177f88e0d). 이를 위해 영화, TV, 웹툰 등 다양한 콘텐츠 영역에서 정교한 추천 기술을 통해 사용자가 자신의 취향을 발견하고 그에 맞는 콘텐츠를 즐길 수 있도록 돕는 것을 목표로 합니다[6](https://www.wanted.co.kr/wd/203196)[5](https://zighang.com/recruitment/c30d8500-0c4f-4fef-bb13-2a4177f88e0d).
+왓챠는 **"모두의 다름이 인정받고, 개인의 취향이 존중받는, 더 다양한 세상을 만들어간다"**는 비전을 가지고 있습니다(https://zighang.com/recruitment/c30d8500-0c4f-4fef-bb13-2a4177f88e0d). 이를 위해 영화, TV, 웹툰 등 다양한 콘텐츠 영역에서 정교한 추천 기술을 통해 사용자가 자신의 취향을 발견하고 그에 맞는 콘텐츠를 즐길 수 있도록 돕는 것을 목표로 합니다[6](https://www.wanted.co.kr/wd/203196)[5](https://zighang.com/recruitment/c30d8500-0c4f-4fef-bb13-2a4177f88e0d).
 
 ## **채용 정보 (ML 엔지니어 포지션)**
 
