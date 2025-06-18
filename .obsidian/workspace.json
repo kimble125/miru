@@ -35,7 +35,8 @@
               "title": "ME"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "050ee5faccc4d681",
+  "active": "ddf327bb4be293fe",
   "lastOpenFiles": [
-    "Project/6.18 강의.md",
     "Project/개요.md",
+    "Project/6.18 강의.md",
     "Project/회의.md",
     "변경사항.md",
     "Recruit/NLT.md",
