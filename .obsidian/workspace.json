@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Works Cited.md",
+                "file": "Project/개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Works Cited"
+              "title": "개요"
             }
           }
         ],
@@ -186,9 +186,9 @@
   },
   "active": "ddf327bb4be293fe",
   "lastOpenFiles": [
-    "A Study on Development of Disney Animation's Box-office Prediction AI Model Based on Brain Science.pdf",
-    "Project/개요.md",
     "Project/Works Cited.md",
+    "Project/개요.md",
+    "A Study on Development of Disney Animation's Box-office Prediction AI Model Based on Brain Science.pdf",
     "Recruit/ME.md",
     "Recruit/AI캠프 자소서.md",
     "Project/6.18 강의.md",
