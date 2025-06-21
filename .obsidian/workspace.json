@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "캐릭터 콘텐츠.md",
+                "file": "유튜브 인사이트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "캐릭터 콘텐츠"
+              "title": "유튜브 인사이트"
             }
           }
         ],
@@ -184,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddf327bb4be293fe",
+  "active": "96e17dcac7a416f9",
   "lastOpenFiles": [
+    "Untitled",
+    "Job/캐릭터 콘텐츠.md",
+    "Job",
     "블로그/블로그 쓰다만 내용.md",
     "프로젝트 휴지통.md",
     "Untitled.md",
