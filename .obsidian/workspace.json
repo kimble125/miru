@@ -25,12 +25,14 @@
             "id": "ddf327bb4be293fe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250616122108.png"
+                "file": "캐릭터 콘텐츠.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250616122108"
+              "icon": "lucide-file",
+              "title": "캐릭터 콘텐츠"
             }
           }
         ],
@@ -54,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,7 +186,16 @@
   },
   "active": "ddf327bb4be293fe",
   "lastOpenFiles": [
-    "A Study on Development of Disney Animation's Box-office Prediction AI Model Based on Brain Science.pdf",
+    "블로그/블로그 쓰다만 내용.md",
+    "프로젝트 휴지통.md",
+    "Untitled.md",
+    "변경사항.md",
+    "Images/Pasted image 20250616122108.png",
+    "PDFs/A Study on Development of Disney Animation's Box-office Prediction AI Model Based on Brain Science.pdf",
+    "Images",
+    "PDFs",
+    "Images/Pasted image 20250616122101.png",
+    "Images/Pasted image 20250616121206.png",
     "Project1_Sesac/6.20 회의.md",
     "Project1_Sesac/6.18 강의.md",
     "Project1_Sesac/6.19 회의.md",
@@ -196,12 +207,7 @@
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "Project1_Sesac/회의.md",
-    "변경사항.md",
     "Project1_Sesac",
-    "Untitled.md",
-    "Pasted image 20250616122108.png",
-    "Pasted image 20250616122101.png",
-    "Pasted image 20250616121206.png",
     "Recruit",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
