@@ -25,14 +25,12 @@
             "id": "ddf327bb4be293fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Project_Sesac/6.20 회의.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250616122108.png"
               },
-              "icon": "lucide-file",
-              "title": "6.20 회의"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250616122108"
             }
           }
         ],
@@ -184,22 +182,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96e17dcac7a416f9",
+  "active": "ddf327bb4be293fe",
   "lastOpenFiles": [
-    "Project_Sesac/6.18 강의.md",
-    "Project_Sesac/6.20 회의.md",
-    "Project_Sesac/6.19 회의.md",
-    "Project_Sesac/개요.md",
-    "Project_Sesac/Works Cited.md",
     "A Study on Development of Disney Animation's Box-office Prediction AI Model Based on Brain Science.pdf",
+    "Project1_Sesac/6.20 회의.md",
+    "Project1_Sesac/6.18 강의.md",
+    "Project1_Sesac/6.19 회의.md",
+    "Project1_Sesac/개요.md",
+    "Project1_Sesac/Works Cited.md",
     "Recruit/ME.md",
     "Recruit/AI캠프 자소서.md",
     "Recruit/NLT.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "Project_Sesac/회의.md",
+    "Project1_Sesac/회의.md",
     "변경사항.md",
-    "Project_Sesac",
+    "Project1_Sesac",
     "Untitled.md",
     "Pasted image 20250616122108.png",
     "Pasted image 20250616122101.png",
