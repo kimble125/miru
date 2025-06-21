@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living/English memos.md",
+                "file": "Project2_조장/개요_Insightoon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English memos"
+              "title": "개요_Insightoon"
             }
           }
         ],
@@ -184,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96e17dcac7a416f9",
+  "active": "ddf327bb4be293fe",
   "lastOpenFiles": [
+    "Living/English memos.md",
+    "Project2_조장/개요_Insightoon.md",
+    "Project2_조장",
     "Living/songs to listen.md",
     "2025-06-15.md",
     "2024-08-11.md",
@@ -222,10 +225,8 @@
     "무제 파일.canvas",
     "Project1_Sesac/회의.md",
     "Project1_Sesac",
-    "Recruit",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
-    "Welcome.md",
-    "Untitled 2.md"
+    "Welcome.md"
   ]
 }
