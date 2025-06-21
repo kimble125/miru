@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Living/songs to listen.md",
+                "file": "Living/English memos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "songs to listen"
+              "title": "English memos"
             }
           }
         ],
@@ -184,10 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddf327bb4be293fe",
+  "active": "96e17dcac7a416f9",
   "lastOpenFiles": [
-    "_debug_remotely_save/sync_plans_hist_exported_on_1723352881866.md",
     "Living/songs to listen.md",
+    "2025-06-15.md",
+    "2024-08-11.md",
+    "_debug_remotely_save/sync_plans_hist_exported_on_1723352881866.md",
     "Project records/갭이어 프로젝트.md",
     "Living",
     "Project records",
