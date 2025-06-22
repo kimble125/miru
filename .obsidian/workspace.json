@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project1_Sesac/Script.md",
+                "file": "Living/분실물.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Script"
+              "title": "분실물"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "ddf327bb4be293fe",
   "lastOpenFiles": [
-    "Project1_Sesac/Question.md",
     "Project1_Sesac/Script.md",
+    "Living/분실물.md",
+    "Project1_Sesac/Question.md",
     "Project1_Sesac/6.19 회의.md",
     "Project1_Sesac/6.20 회의.md",
     "Project2_조장/개요_컷잘알.md",
@@ -225,7 +226,6 @@
     "Recruit/NLT.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "Project1_Sesac/회의.md",
     "Project1_Sesac",
     "Untitled.canvas"
   ]
