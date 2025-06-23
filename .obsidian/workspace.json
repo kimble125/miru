@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project1_Sesac/Success.md",
+                "file": "Recruit/NLT/6.23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Success"
+              "title": "6.23"
             }
           }
         ],
@@ -184,10 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddf327bb4be293fe",
+  "active": "96e17dcac7a416f9",
   "lastOpenFiles": [
-    "Project1_Sesac/Script.md",
+    "Recruit/NLT/NLT.md",
+    "Recruit/NLT/6.23.md",
+    "Recruit/NLT",
     "Project1_Sesac/Success.md",
+    "Project1_Sesac/Script.md",
     "Living/분실물.md",
     "Project1_Sesac/Question.md",
     "Project1_Sesac/6.19 회의.md",
@@ -222,11 +225,8 @@
     "Project1_Sesac/6.18 강의.md",
     "Project1_Sesac/개요.md",
     "Project1_Sesac/Works Cited.md",
-    "Recruit/ME.md",
-    "Recruit/AI캠프 자소서.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "Project1_Sesac",
     "Untitled.canvas"
   ]
 }
