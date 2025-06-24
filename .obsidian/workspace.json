@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2d37b51c710369e0",
@@ -212,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96e17dcac7a416f9",
+  "active": "14a32ce92de324f6",
   "lastOpenFiles": [
     "Project1_Sesac/Evaluation pro/Untitled.md",
     "Project1_Sesac/Politics tts/6.24.md",
