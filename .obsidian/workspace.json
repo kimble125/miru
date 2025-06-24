@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project1_Sesac/Evaluation/Question.md",
+                "file": "Project1_Sesac/Evaluation pro/Question.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project1_Sesac/Evaluation/Script.md",
+                "file": "Project1_Sesac/Evaluation pro/Script.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project1_Sesac/Evaluation/Untitled.md",
+                "file": "Project1_Sesac/Politics tts/6.24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "6.24"
             }
           }
         ],
@@ -214,18 +214,20 @@
   },
   "active": "96e17dcac7a416f9",
   "lastOpenFiles": [
-    "Project1_Sesac/Evaluation/Success.md",
-    "Project1_Sesac/Evaluation/Untitled.md",
-    "Project1_Sesac/Evaluation/Script.md",
-    "Project1_Sesac/Evaluation/Question.md",
-    "Project1_Sesac/Evaluation",
+    "Project1_Sesac/Evaluation pro/Untitled.md",
+    "Project1_Sesac/Politics tts/6.24.md",
+    "Project1_Sesac/Politics tts",
+    "Project1_Sesac/Evaluation pro/Success.md",
+    "Project1_Sesac/Evaluation pro/Script.md",
+    "Project1_Sesac/Evaluation pro/Question.md",
+    "Project1_Sesac/Evaluation pro",
     "Recruit/NLT/6.23.md",
     "Project2_조장/개요_컷잘알.md",
     "Recruit/NLT/NLT.md",
     "Recruit/NLT",
     "Living/분실물.md",
-    "Project1_Sesac/Evaluation/6.19 회의.md",
-    "Project1_Sesac/Evaluation/6.20 회의.md",
+    "Project1_Sesac/Evaluation pro/6.19 회의.md",
+    "Project1_Sesac/Evaluation pro/6.20 회의.md",
     "Living/English memos.md",
     "Project2_조장",
     "Living/songs to listen.md",
@@ -248,10 +250,9 @@
     "변경사항.md",
     "Images/Pasted image 20250616122108.png",
     "PDFs/A Study on Development of Disney Animation's Box-office Prediction AI Model Based on Brain Science.pdf",
-    "Images",
     "Images/Pasted image 20250616122101.png",
     "Images/Pasted image 20250616121206.png",
-    "Project1_Sesac/Evaluation/6.18 강의.md",
+    "Project1_Sesac/Evaluation pro/6.18 강의.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "Untitled.canvas"
