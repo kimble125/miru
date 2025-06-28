@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2d37b51c710369e0",
@@ -184,11 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0647f997a4fddd17",
+  "active": "96e17dcac7a416f9",
   "lastOpenFiles": [
-    "Pasted image 20250628133242.png",
-    "Project1_Sesac/Politics tts/6.27Fr.md",
+    "Untitled",
     "Project1_Sesac/Politics tts/6.28Sat.md",
+    "Untitled.md",
+    "Images/Pasted image 20250628133242.png",
+    "Project1_Sesac/Politics tts/6.27Fr.md",
     "Project1_Sesac/Politics tts/6.26Th.md",
     "Project1_Sesac/Politics tts/6.25.md",
     "Project1_Sesac/Evaluation pro/Script.md",
@@ -218,7 +219,6 @@
     "Insights/대화와 인사이트.md",
     "Ideas/서비스 아이디어.md",
     "Ideas",
-    "Insights/유튜브 인사이트.md",
     "Insights",
     "Job",
     "Images/Pasted image 20250616122108.png",
