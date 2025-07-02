@@ -36,3 +36,4 @@ Agentspace 역량 확장을 위한 통합 솔루션 Application Integration
 > 본 세션을 통해서 Application Integration 이 제공하는 다양한 기업 내외부 시스템에 대한 Connector 와 Workflow 를 사용하여 Agentspace 가 다양한 유스케이스들을 처리하는 방법을 이해하고, 기업의 실제 환경에 적용할 수 있는 인사이트를 얻게 되시길 기대합니다.
 
 홍창배
+
