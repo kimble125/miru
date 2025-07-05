@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project1_Sesac/Politics tts/After/Next 기획안.md",
+                "file": "Project2_조장/개요_컷잘알.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next 기획안"
+              "title": "개요_컷잘알"
             }
           },
           {
@@ -200,8 +200,8 @@
   },
   "active": "25d6a4fc9a991e3e",
   "lastOpenFiles": [
-    "Project1_Sesac/Politics tts/7.2 Wen.md",
     "Project1_Sesac/Politics tts/After/Next 기획안.md",
+    "Project1_Sesac/Politics tts/7.2 Wen.md",
     "Project1_Sesac/Politics tts/After",
     "Project records/갭이어 프로젝트.md",
     "DA/(Events)Google Cloud.md",
